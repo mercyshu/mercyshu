@@ -1,4 +1,4 @@
-## Hops, I'm <a href="https://github.com/mercyshu" target="_blank">Mercy</a> 😵‍💫
+## Hops, I'm Mercy 😵‍💫
 (Use dark theme to find my socials ;)
 
 <a href="https://instagram.com/mercysche" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
